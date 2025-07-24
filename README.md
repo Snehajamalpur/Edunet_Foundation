@@ -12,3 +12,9 @@ The notebook covers the following steps:
 5.  **Answering Questions with RAG:** Automating the RAG pipeline to use the retrieved context to generate a coherent answer to the user's question using the selected LLM.
 
 This notebook provides a practical example of setting up and running a RAG pipeline for question answering over a custom knowledge base.
+
+<img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/47151f8f-00f4-4e65-a084-b3cc5d6892b6" />
+<img width="1912" height="890" alt="image" src="https://github.com/user-attachments/assets/04fce23b-67a1-40ad-907a-252f02204e45" />
+<img width="1913" height="886" alt="image" src="https://github.com/user-attachments/assets/f672391e-581d-40c7-81f0-868206ca369a" />
+<img width="1914" height="884" alt="image" src="https://github.com/user-attachments/assets/add71554-c86e-4353-9144-393160678c7e" />
+<img width="1916" height="889" alt="image" src="https://github.com/user-attachments/assets/61d81b85-eff8-434d-949b-b6e9c4aa7cf1" />
